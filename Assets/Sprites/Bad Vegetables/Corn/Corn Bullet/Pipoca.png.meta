@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: d616b88600198a44e977512668c8bb01
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pipoca_0
+    21300002: Pipoca_1
+    21300004: Pipoca_2
+    21300006: Pipoca_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Pipoca_0
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 423
+        width: 193
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.5, y: 48.5}
+        - {x: 58.5, y: 99.5}
+        - {x: -7.5, y: 99.5}
+        - {x: -34.5, y: 92.5}
+        - {x: -96.5, y: 33.5}
+        - {x: -96.5, y: -40.5}
+        - {x: -89.5, y: -93.5}
+        - {x: -74.5, y: -99.5}
+        - {x: 70.5, y: -99.5}
+        - {x: 95.5, y: -73.5}
+        - {x: 96.5, y: -65.5}
+        - {x: 96.5, y: 36.5}
+    - name: Pipoca_1
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 322
+        width: 191
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 79.5}
+        - {x: -49.5, y: 74.5}
+        - {x: -95.5, y: 8.5}
+        - {x: -95.5, y: -34.5}
+        - {x: -91.5, y: -43.5}
+        - {x: -15.5, y: -77.5}
+        - {x: -8.5, y: -79.5}
+        - {x: 57.5, y: -79.5}
+        - {x: 95.5, y: -43.5}
+        - {x: 95.5, y: 62.5}
+        - {x: 74.5, y: 79.5}
+    - name: Pipoca_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 130
+        width: 222
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: 31}
+        - {x: 79, y: 69}
+        - {x: 51, y: 85}
+        - {x: 7, y: 85}
+        - {x: -89, y: 61}
+        - {x: -111, y: 35}
+        - {x: -111, y: -78}
+        - {x: -97, y: -85}
+        - {x: 83, y: -85}
+        - {x: 110, y: -70}
+        - {x: 111, y: -56}
+    - name: Pipoca_3
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 72
+        width: 166
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 91.5}
+        - {x: -66, y: 91.5}
+        - {x: -83, y: 24.5}
+        - {x: -83, y: -48.5}
+        - {x: -57, y: -91.5}
+        - {x: 83, y: -91.5}
+        - {x: 83, y: 24.5}
+        - {x: 75, y: 70.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
