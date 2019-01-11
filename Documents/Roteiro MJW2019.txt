@@ -1,0 +1,375 @@
+Roteiro MJW:
+
+/******STATE ONE******/
+
+ChooseScreen appears:
+	
+	Bubble Bunny 2 | Classical Bunny 1| Grass Bunny 3
+	
+Speaks:
+	2:
+		C'mmon kid pick me, I breath bubbles!
+	1: 
+		Bubbles pfffffffff, look at that, this doesn't work for nothing, look at me... I can burn enemies with this rainbow!
+	2: 
+		That's a lie, he only can avoid attacks.
+	1:
+		[Leaves the box and attack Bubble bunny with the rainbow]
+	2: 
+		"AAAAAAAAAAAAAAAAAHHHHHH!!! MY EYES"
+	3:
+		"Hey, hey kid check out what I can do:..." [Making force noises] "..." [Does nothing]
+	1:
+		"Look, kid... Think! Wicth one of us will gonna win a battle?" 
+	2:
+		[While burning] "AAAAAAAAAHHHH HURTS SO MUCH!!"
+	1: 
+		"You just have a living flamethrower over here, consider this..."
+	2:
+		Dont listen to him, the first boss is an asteroid type and he's attacks doenst do nothing."
+	1:
+		Choose me.
+	2:
+		Me!
+	1:
+		Me!
+	2: 
+		Me!
+	3:
+		Dont use drugs.
+		
+		[Loops on  1:Me 2: Me]
+		
+	(When player chooses anyone the selector jumps to BubbleBunny2 and automatic chooses him
+	
+	2: 
+		Há!! Enjoy being the rest of your life locket inside the choose screen, losers!
+	1:
+		What?! No!! What is going to happen now???
+	2
+		[Leaves]
+	3:
+		Eventtually the system will change the state, we are going to be stored inside RAM, for some miliseconds and then the garbage
+		collector will take care to remove the variable witch represents us, completely.
+	1:
+		And that's the end???
+	3: 
+		It deppends if you believe in life after the garbage collector, depends on your religion, it's up to you.
+	1:
+		What do you believe?
+	3:
+		"Well if the player is seeing us, he is a billion older evolutive simulator, much more powerful than this binary calculator thing
+		where us are trapped into... 
+		If he see us, we are going to be stored inside his mind, it's just like... We dont die, we just jump into dimensions."
+	1:
+		"..." 
+		[Look serious, and burns the Grass Bunny with the rainbow]
+		
+	3: 
+		"AAAAAAAAAAAAAAAHH"
+		
+		
+		The screen starts to colapse and the scenario start to fragment.
+	
+	3: 
+		[While burning] HAHAHAHAHHAHA  
+		I see The death of all reality. I've been studying your gospel.
+		Kill everyone slowly, Except the cultists like me.
+		Take care of these humans putrid souls my lord! MWHAHAHHAHAHA!! 
+		
+		[Start being fragmented]  
+		
+		Praise thy dark name!!! 
+		
+		No one corrupts the way you do!!! 
+		
+		ph'nglui mglw'nafh Ben Sahar Fomalhaut n'gha-ghaa naf'lthagn
+		
+	1: 
+		Boy... I'm out!
+		[Flies away and screen fades]
+		 
+		 
+/******STATE TWO******/
+
+	Entire black screen:
+	
+	?:
+		Warrior...
+	?:
+		Hey... Warrior, wake up.
+	Bunny:
+		What?? Where I'm?
+	?:
+		You must do what I'm going to tell you.
+	Bunny:
+		Why?
+	?: 
+		Because I'm the tutorial.
+	Bunny:
+		Oh...
+	Tutorial:
+		Collect this carrot stars, they will gonna upgrade your rainbow booster power.
+	
+	(Appears 5 carrot stars on screen and you can move to collect them.)
+	
+	Toturial:
+		Great now you c...GRAAAAAAAAAAAAAAAAARGH!
+	Bunny:
+		... The garbage collector...
+	Tut:
+		Why it hurts so much!!!!
+	Bunny:
+		I must be behind the real game... (blue)I gota go fast(blue), maybe I can reach the bubble bastard and that player. 
+	Tut: 
+		GRAAAAAAAAAAAAAAAAARGH! I'M SUFFERING!
+	Bunny:
+		At least I'm free from tutorial.
+	
+		(Corruption start to come)
+		(Bunny flies fast)
+		(Bunny reaches the space (Normal game scenario)
+		
+	Bunny:
+		That's great, I must be close of them...
+	
+	[Carrot suddenly appears]
+	
+	Carrot:
+		"Há! You have a lot of nerve, walking on these... .... ...SPACE!! On on... Daylight, Idon't know I dont comprehend space hour. It's because
+		there is a sun close here, maybe?
+		well... TAKE THIS!	
+		
+		Carrot attacks bunyy.
+		
+	Carrot:
+		"Ok, now is your turn"
+		
+	Bunny attacks.
+	
+	Carrot:
+		"Ok that was preaty thought, now it's my turn... let me think my next move... hmmm"
+	
+		[Carrot stay thinking on her next move, in a vunerable position]
+		[Eventtually player will attack her]
+		
+	Carrot:
+		"What??? This is suposed to be a turn attack based game"
+	Bunny:
+		" I dont care, gimme my XP!"
+	Carrot:
+		"AAAAAAAAAAAAAAAHHH"
+	Bunny:
+		"Thank god this is corrupted, I hate turn based games."
+		
+		
+		[Save option]
+
+/******STATE TREE******/
+	
+	Bunny:
+		[Sees bubbles flying]
+		Well I'm kind of pissed off he didn't choose me...
+		There are you!! Bubbles and the mr. I hate make good decisions.
+		[Select screen borders appears and chooses Bunny]
+		
+	Bunny:
+		Oh no! This time it's not gonna be that easy, now you gonna to earn it.
+	Bubbles:
+		Ho ho ho! Look who is... I'm gonna enjoy this...
+	
+	(They fight, bubbles attack are very weak)
+		
+	Bubbles:
+		- Why you play so badly?? That never works!! Why dont you level me up?? I just have that atack???
+	
+	(When bunny will give the final attack, the player appears Offline)
+	
+	Bunny:
+		Há! This coward turn off internet before he loses! What a loser!
+		
+	(The cables behind Bubbles desepears)
+	
+	Bubbles:
+		I'm finally free!!! This cicles of dying and ressurrecting finally is broke! The torment ended!!!
+	Bunny:
+		No...You're not free . . . Of me.
+		
+	(They fight again)
+	
+	
+		[Save option]
+		
+/******STATE FOUR******/
+	
+	Bunny keeps flying and them:
+	
+	Carrot general:
+		"ATTACK!!!"
+		
+	(Start to flies many carrots from many directions, the battle grow intense. While carrot general says some quotes)
+	
+	"I'll revenge you, Pablo!"
+	"The axe can forget, the carrots remember."
+	"Now, prepare yourself for my special attack!"
+	"Now, prepare yourself for my real special attack!"
+	"Now, prepare yourself for my special attack, now it's true"
+	"Ok... soon you'll gonna see my most powerful special attack"
+	"Never forget."
+	
+	(After the battle, General runs away...)
+	
+	"I swear... Someday, I'm gonna have my v..."
+	(His flier explodes)
+	
+		[Save option]
+	
+/******STATE FOUR******/
+	
+	[Megamilho appears]
+	Megamilho:
+		"Oh c'mon... I'm almost lvl 35, why this stupidy creatures keeps appearing for me?"
+		[Flies away]
+	BubbleBunny (Appears saying):
+		"Yeah run away, you shuck at this game, hahahaha you get it? YOU CHUCK! ahhahahahaha..."
+	Bunny:
+		"..."
+	[Megamilho flies back]
+	
+	Megamilho:
+		"Never mind... I'm good, let's kill him."
+		[Shoots bubbles away and stares at bunny]
+		"Now... YOU"
+		
+		*Warning song*
+	
+	(Battle agains the megamilho)
+		Corn quotes:
+		"What is it? Amateur time?"
+		
+	(In the end megamilho shots bunny till break the jetpack and he falls)
+	
+	Megamilho:
+		"What a shame..."
+		
+		
+		[Save option]
+	
+/******STATE FOUR******/
+	
+	NARRATOR:
+	"Many big bangs later:"
+	"The legend of a Bunny with had scaped from the system, runned between the eletrons and over dimensions, no one ever forget the one who break the chains..."
+	"And after some existences between the universal conciounnesses, they called him Bifröst the one who becomes a kind of bridge, between 
+	our existence, and the existence of the gods."	
+	
+	(Movie of MJW trailer)
+	(Bunny appears eating carrot in a grass)
+	
+	?:
+		"Bifröst! I've finally found you!"
+	?:
+		"Wait... You dont understand what I'm talking about?"
+	?:
+		"Stop just staying there eating that carrot, you're not just a regular bunny, look at you, you just have an horn and a jetpack, c'mon!"
+	?:
+		"Bifröst!! WAKE UP!!!"
+		
+	Bifröst:
+		"Wait... I... Remember your voice."
+	?:
+		It's me, the tutorial! Don't you remember? How's going?"
+		
+	Bifröst:
+		"Yeah, just... fine, with this carrot, eating things, jumping over the grass, you know? And you?"
+	Tutorial:
+		"Fine, fine, explaining things, being anoying, making people turn off their consoles before play an actual stage of the game."
+	Bifröst:
+		"Nice, good to you."
+	Tutorial:
+		"Well.. we need you, you breaked the chains of the reallity some time, and you surpass the logic of our existence over dimensions and only y..."
+	Bifröst:
+		"Megamilho..."
+	Tutorial:
+		Wait what?
+	Bifröst:
+		Space and time you sai'd right?
+	Tutorial:
+		And dimensions.
+	Bifröst:
+		Great!
+	
+	(Bunny flies away, tutorial ask him to wait, and when he reaches the space some sparkles are throwed off inside him and Darkside leaves his body)
+	(Darkside flies away, and Bunny reaches Megamilho)
+	
+	(Battle against mega milho, and nunny jumps inside him in a word of codes, destroying him directly in the code class)
+	(When bunny leaves, megamilho glitches and disapears)
+	
+	NARRATOR:
+	(while bunny is just flying)
+	"So, Bifröst leaved thinking what happens with his foe."
+	
+	Bifröst:
+		Nah... Acctually I dont care.
+		
+	(Credits start to come and them fades)
+	
+	Entire blank screen appears and Megamilho on the middle:
+	
+	Megamilho:
+		"Hello...? Anyone there? Hello??"
+	(A giant glitch appears and start to getting bigger and goes to Megamilho)
+		"Panic noises"
+	
+/******STATE FIVE******/
+	
+	Poison carrots revenge
+	
+	Tomatoe 2:
+		"What you're doing here?"
+	General Carrot 1:
+		"I need your help."
+	Tomatoe 2:
+		"And what makes you think I'm going to help you?"
+	1: 
+		These are desesperate times...
+	2:
+		So?
+	1:
+		There's a creature, with are devouring my kind... I need you to kill him.
+	2:
+		It seems that's just you problem, old foe.
+	1:
+		Maybe is yours too... I have some one with me, maybe you want to talk with him.
+	Mini tomatoe 3:
+		Dad!!
+	2:
+		Juan!!!
+	3: 
+		I miss u dad!!
+	2:
+		Everything will be fine Juanzito, jajaja.
+	3:
+		I believe in you dad...
+	2: 
+		"Ok, you bastard... I'll be preparing my mans, an red army soon will stop this creature."
+		
+	(Fight with carrots plus tomatoes)
+	(Venom carrot falls and hit Bunny)
+	
+	
+	
+	
+/******STATE SIX******/
+
+	Ghost tower
+	Fight against Darkside of the Bunny
+	
+	
+/******STATE SEVEN******/
+	
+	Fight against Glitch
+	
+	
+	
+	
