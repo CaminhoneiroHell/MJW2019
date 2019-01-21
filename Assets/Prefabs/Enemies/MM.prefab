@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 9500000}
   - component: {fileID: 5000000}
   - component: {fileID: 5800000}
-  - component: {fileID: 11429818}
   m_Layer: 4
   m_Name: MM
   m_TagString: KillZone
@@ -139,16 +138,3 @@ CircleCollider2D:
   m_Offset: {x: -0.19, y: -3.09}
   serializedVersion: 2
   m_Radius: 1.65
---- !u!114 &11429818
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 100000}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b816c2f56bc894d409f797f43b6d8668, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  timeToDie: 7
